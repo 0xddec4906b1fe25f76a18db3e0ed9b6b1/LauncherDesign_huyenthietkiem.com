@@ -9,16 +9,12 @@
 	{
 		"VersionFrom": "1.0",
 		"VersionTo": "1.1",
-		"UpTime": "2022-03-30 06:00",
-		"Url": "http://huyenthietkiem.com/update/p/files/up-htk-v1.1.7z", 
 		"Url": "https://github.com/0xddec4906b1fe25f76a18db3e0ed9b6b1/LauncherDesign_huyenthietkiem.com/blob/a5bc5fa2144ff2b83aa48af5d1720955b5603eeb/files/up-htk-v1.0.7z",
 		"Desc": "Cập nhập lần đầu"
 	},
 	{
 		"VersionFrom": "0",
 		"VersionTo": "1.0",
-		"UpTime": "2022-03-30 06:00",
-		"Url": "http://huyenthietkiem.com/update/p/files/up-htk-v1.0.7z", 
 		"Url": "https://github.com/0xddec4906b1fe25f76a18db3e0ed9b6b1/LauncherDesign_huyenthietkiem.com/blob/a5bc5fa2144ff2b83aa48af5d1720955b5603eeb/files/up-htk-v1.0.7z",
 		"Desc": "Bộ cài đặt"
 	}
