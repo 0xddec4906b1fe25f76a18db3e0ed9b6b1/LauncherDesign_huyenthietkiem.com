@@ -9,12 +9,14 @@
 	{
 		"VersionFrom": "1.0",
 		"VersionTo": "1.1",
+		"UpTime": "2022-04-07 06:00",
 		"Url": "https://huyenthietkiem.com/update/p/files/up-htk-v1.1.7z",
 		"Desc": "Cập nhập lần đầu"
 	},
 	{
 		"VersionFrom": "0",
 		"VersionTo": "1.0",
+		"UpTime": "2022-04-07 06:00",
 		"Url": "https://huyenthietkiem.com/update/p/files/up-htk-v1.0.7z",
 		"Desc": "Bộ cài đặt"
 	}
